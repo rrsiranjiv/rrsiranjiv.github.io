@@ -1,0 +1,41 @@
+/* your styles go here */
+
+.testimonial-container {
+    display: flex !important;
+    justify-content: center;
+}
+
+.testimonial-author-name {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color:#777;
+    font-size:0.9rem;
+}
+
+.testimonial-child {
+    max-width: 300px;
+    background-color: #FFF;
+    padding: 15px;
+}
+
+.testimonial-content {    
+    color: #555;
+}
+
+.flex-row {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;    
+}
+
+.testimonial-author-container {
+    margin: 0 20px;
+}
+
+.circle {
+    border-radius: 30px;
+    width: 60px;
+    height:60px;
+}
